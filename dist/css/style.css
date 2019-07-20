@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    transition: all 0.3s;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+
+body {
+    background: #fff;
+    font-family: 'Roboto-Regular', Helvetica, sans-serif;
+    font-size: 14px;
+    text-rendering: optimizelegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.header {
+    background: rgb(230, 97, 00) url(../img/topo.png) no-repeat center;
+    background-size: 100% auto;
+    width: 100%;
+}
+
+
+.header .frase {
+    font-family: 'Roboto-Black';
+
+}
+
+.header .text-yellow {
+    color: #ff0 !important;
+}
+
+.pista {
+    background: rgb(74, 63, 60);
+    border-bottom: rgb(230, 97, 00) 5px solid;
+    min-height: 200px;
+}
