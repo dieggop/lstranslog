@@ -41,3 +41,82 @@ body {
     border-bottom: rgb(230, 97, 00) 5px solid;
     min-height: 200px;
 }
+
+.pista .box1 {
+    background: rgb(200, 87, 3);
+    margin-top: -50px;
+    min-height: 245px;
+}
+
+.box1 h4 {
+    font-family: 'Roboto-Black';
+
+}
+
+.logo {
+    border-radius: 100%;
+    border: #fff solid 1px;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    margin-top: -75px;
+    margin-bottom: 50px;
+}
+
+.logo img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+.icon_transicao {
+    border-radius: 100%;
+    background: rgb(230, 97, 00);
+    padding: 30px;
+}
+
+.transicao .titulo_transicao {
+    font-family: 'Roboto-BoldCondensed';
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.transicao .data_hora {
+    font-family: 'Roboto-Condensed';
+    letter-spacing: 1px;
+}
+
+.transicaoicon {
+    width: 30px;
+}
+
+.transicaoicon img {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+
+.processo {
+    width: 120px;
+}
+
+.listaDados {
+    font-family: 'Roboto-Medium';
+
+}
+
+.corumlista {
+    background: rgb(240, 180, 138);
+}
+
+.cordoislista {
+    background: rgb(252, 237, 230);
+}
+
+.dados_cliente {
+    max-width: 86% !important;
+}
+
+.dados_cliente H3 {
+    font-family: 'Roboto-Black';
+
+}
